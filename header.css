@@ -11,9 +11,7 @@
   width: 100%;
   justify-content: center;
 } */
- img{
-  width: 8rem;
-}
+
 .logo-lang {
   display: flex;
   align-items: center;
@@ -24,6 +22,10 @@
   font-size: 1.2rem;
   margin-right: 0.5rem;
 }
+.app-logo img{
+  width: 8rem;
+}
+
 .app-navbar {
   display: inline-flex;
   justify-content: space-between;
